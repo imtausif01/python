@@ -1,6 +1,6 @@
 # variable means a box (dabba)
 
-"""Rule for variable 
+"""Rule for variabl
 1. Variable name can only contain letters, numbers, and underscores.
 2. Variable name should start with a letter or underscore (_).
 3. Variable name can't start with a digit.
