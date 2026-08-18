@@ -50,3 +50,28 @@ print(a < b)   # True...< (less than) matlab a ki value b ki value se chota hai 
 print(a >= b)  # False...>= (greater than or equal to) matlab a ki value b ki value se bada ya equal hai ya nahi, agar bada ya equal hai to True return karega otherwise False return karega.
 
 print(a <= b)  # True...<= (less than or equal to) matlab a ki value b ki value se chota ya equal hai ya nahi, agar chota ya equal hai to True return karega otherwise False return karega.
+
+
+"""4. Logical operators :- used to combine conditional statements and return a boolean value (True or False).(and, or, not)""" 
+
+a = True or False
+print (a)
+
+# and truth table
+print ("True and True is" , True and True )
+print ("True and False is" , True and False )
+print ("False and True is" , False and True )
+print ("False and False is" , False and False )
+
+# or truth table
+print ("True or  True is" , True or True )
+print ("True or  False is" , True or False )
+print ("False or  True is" , False or True ) 
+print ("False or False is" , False or  False )
+
+# not truth table
+print (not(True))
+print (not(False))
+
+
+
